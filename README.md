@@ -133,7 +133,7 @@ We truly appreciate your feedback and contributions that help make this project 
 
 👤 **Author:** *Jalamana Sirisha (Group - 4)*  
 📧 **Email:** [sirishajalamana@gmail.com](mailto:sirishajalamana@gmail.com)  
-🌐 **GitHub:** [github.com/Jalamana-Sirisha](https://github.com/JalamanaSirisha)  
-🔗 **LinkedIn:** [linkedin.com/in/jalamanasirisha](https://linkedin.com/in/jalamanasirisha)  
+🌐 **GitHub:** [https://github.com/Jalamana-Sirisha](https://github.com/Jalamana-Sirisha)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/jalamana-sirisha-46307131a](https://www.linkedin.com/in/jalamana-sirisha-46307131a)  
 
 💬 *Feel free to connect for collaboration, suggestions, or project discussions.*
