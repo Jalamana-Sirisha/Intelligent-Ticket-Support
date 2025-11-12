@@ -2,18 +2,31 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-![Repository Size](https://img.shields.io/github/repo-size/yourusername/AI-Ticket-Resolution)  
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/AI-Ticket-Resolution)  
-![Dashboard](assets/dashboard.png)  
+![Repository Size](https://img.shields.io/github/repo-size/Jalamana-Sirisha/Intelligent-Ticket-Support)  
+![Last Commit](https://img.shields.io/github/last-commit/Jalamana-Sirisha/Intelligent-Ticket-Support)  
+![Dashboard](assets/dashboard.png)
+
 
 ---
 
 ## 📖 Introduction  
 
-The **AI Ticket Resolution System 3.0** is a smart automation platform that uses **Natural Language Processing (NLP)** and **Transformer-based models** to automatically categorize, analyze, and resolve support tickets.  
+The **AI Ticket Resolution System** is an advanced automation platform powered by **Natural Language Processing (NLP)** and **Transformer-based deep learning models**.  
+It intelligently classifies, analyzes, and resolves customer support tickets with minimal human intervention.  
 
-It helps organizations minimize manual ticket triage, improve response speed, and deliver consistent customer support.  
-The project also features a **Streamlit dashboard** for interactive analytics and **Slack integration** for real-time team notifications.  
+By leveraging intelligent automation and machine learning insights, the system helps organizations:  
+- **Reduce manual triage time**  
+- **Accelerate response speed**  
+- **Ensure consistent, high-quality customer support**  
+
+The project also includes:  
+- An interactive **Streamlit dashboard** for real-time analytics and visualization  
+- Seamless **Slack integration** for instant notifications and team collaboration  
+- A **modular design** for easy scalability and customization  
+
+This solution represents a major step toward **AI-driven service operations**, empowering teams to make faster and smarter decisions.
+
+
 
 ---
 
@@ -29,21 +42,11 @@ The project also features a **Streamlit dashboard** for interactive analytics an
 
 ---
 
-## 🆕 Version 3.0 Enhancements  
-
-| Feature | Description | Preview |
-|----------|--------------|----------|
-| **Enhanced Analytics** | Improved performance tracking with precision, recall, and F1-score metrics | ![Analytics](assets/analytics.png) |
-| **Optimized UI** | Faster, cleaner, and responsive real-time interface | ![Screen Optimization](assets/rtso.png) |
-| **Slack Integration** | Instant notifications for ticket resolution and updates | ![Slack Integration](assets/slack.png) |
-
----
-
 ## ⚙️ Installation  
 
 1. **Clone the Repository**
 
-       git clone https://github.com/s4sahiko/Smart-Ticket-Classifier.git
+       git clone https://github.com/Jalamana-Sirisha/Smart-Ticket-Classifier.git
        cd Smart-Ticket-Classifier
    
 2. **Create and Activate a Virtual Environment**
